@@ -10,11 +10,41 @@ using System.Windows.Forms;
 
 namespace BryanAsteroidGame
 {
-    public partial class Form1 : Form
+    public partial class AsteroidForm : Form
     {
-        public Form1()
+
+        //    todo
+        // find space png
+        // make space ship class
+        // 
+
+
+
+
+
+
+        public AsteroidForm()
         {
             InitializeComponent();
+        }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        private void pictureBox1_Click(object sender, EventArgs e)
+        {
+
         }
     }
 }
